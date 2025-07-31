@@ -11,7 +11,7 @@ A clean and fully responsive frontend clone of the **Dribbble** homepage — cra
 ![Desktop Screenshot](desktop.png)
 
 ### 📱 Mobile View  
-![Mobile Screenshot](main-mbl.png) ![Mobile Screenshot](mbl.png) ![Mobile Screenshot](mbl2.png)
+![Mobile Screenshot](main-mbl.png) ![Mobile Screenshot](mbl.png)
 
 ---
 
@@ -38,7 +38,7 @@ A clean and fully responsive frontend clone of the **Dribbble** homepage — cra
 
 If you have any suggestions, improvements, or feedback — feel free to reach out!
 
-📧 pawankushwaha91719171@gmail.com  
+📧 surajkushwaha09876@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pawan-kushwaha-485942326/)  
 
 ---
