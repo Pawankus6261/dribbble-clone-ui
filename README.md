@@ -7,10 +7,10 @@ A clean and fully responsive frontend clone of the **Dribbble** homepage — cra
 ## 📸 Preview
 
 ### 💻 Desktop View  
-![Desktop Screenshot](./assets/images/desktop-preview.png)
+![Desktop Screenshot](desktop.png)
 
 ### 📱 Mobile View  
-![Mobile Screenshot](./assets/images/mobile-preview.png)
+![Mobile Screenshot](main-mbl.png)
 
 > _Replace these placeholder images with actual screenshots from your project._
 
